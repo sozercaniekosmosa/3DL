@@ -5,4 +5,4 @@
 
 примечание: работает только в современных браузерах (в IE не работает!)
 
-![скриншот](https://github.com/sozercaniekosmosa/3DL/edit/demo.png)
+![скриншот](https://github.com/sozercaniekosmosa/3DL/demo.png)
